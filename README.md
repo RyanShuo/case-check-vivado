@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a488bb21-8571-48c1-bcb3-0b87ba4ee876)# check.py Script - README
+# check.py Script - README
 
 ## Developer
 Developed by: **Shuo Ru**  
