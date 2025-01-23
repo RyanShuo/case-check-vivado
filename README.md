@@ -1,4 +1,4 @@
-# check.py Script - README
+![image](https://github.com/user-attachments/assets/a488bb21-8571-48c1-bcb3-0b87ba4ee876)# check.py Script - README
 
 ## Developer
 Developed by: **Shuo Ru**  
@@ -19,6 +19,7 @@ The `check.py` script automates the following tasks for FPGA design directories:
 - **Python 3.x**  
 - **Conda**: `/tools/misc/conda`  
 - **Vivado 2024.2** installed and accessible.
+- **Linux**
 
 ## Requirements
 - Case structure:  
